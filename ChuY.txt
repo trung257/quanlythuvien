@@ -1,0 +1,11 @@
+B1: Mở SQL Server lên và import file DoAnQLTV.bacpac vào
+B2: Mở file PhanMemQLTV.sln lên
+B3: Chuột phải vào file "Config.cs" chọn "View code"
+B4: Chỉnh lại SERVER NAME theo máy đang dùng 
+====================================================
+Tài khoản:
+    Tài khoản độc giả: DG000023
+    Mật khẩu         : Trung@2507
+	================
+    Tài khoản thủ thư: TT000004
+    Mật khẩu         : Trung@2507
